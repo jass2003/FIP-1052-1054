@@ -17,7 +17,7 @@ Can be assessed by opening LINK of created Repository provided.
 
 
 ### Credits and License - 
-My Professors (Marco and Rob) will have the Credits to assign my all projects of FIPs and will review my progress upon each course. For license, I am using MIT License (Copyright (c) 2023 ishanmehra2001)
+My Professors (Marco and Rob) will have the Credits to assign my all projects of FIPs and will review my progress upon each course. For license, I am using MIT License (Copyright (c) 2023 jashankumar)
 
 
 
