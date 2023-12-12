@@ -617,22 +617,42 @@ height: 500px;
 } */
 
 
+/* Changes */
+#dropdowns1 , 
+#dropdowns2 , 
+#dropdowns3 , 
+#dropdowns4 , 
+#dropdowns5 {
+   margin:0;
+   padding: 0;
+}
 
+/* #dropdowns1:hover, 
+#dropdowns2 , 
+#dropdowns3 , 
+#dropdowns4 , 
+#dropdowns5 {
+   background-color: #4CAF50;
+} */
 
+/* changges bottom down  */
 
 /* dropdown 1*/    
 
 #dropdowns1 label  {
-   background-color: #db2626;
-   width: 400px !important;
-   height: 800px; 
-   
+   background-color: #9a2018;
+   width: 380px;
+   height: 50px; 
    margin-top: 15px;
    cursor: pointer;
    transition: all .5s ease;
    margin-bottom: 20px; 
    border: 4px transparent #c23b3b ;
-   border-radius: 10%;
+   border-radius: 5px;
+   display: inline-block;
+   text-align: center;
+   display: flex;
+   align-items: center;
 } 
 
 
@@ -654,16 +674,19 @@ height: 500px;
 /* dropdown 2*/    
 
 #dropdowns2 label  {
-   background-color: #db2626;
-   width: 400px !important;
-   height: 800px; 
-   
+   background-color: #9a2018;
+   width: 380px;
+   height: 50px; 
    margin-top: 15px;
    cursor: pointer;
    transition: all .5s ease;
    margin-bottom: 20px; 
    border: 4px transparent #c23b3b ;
-   border-radius: 10%;
+   border-radius: 5px;
+   display: inline-block;
+   text-align: center;
+   display: flex;
+   align-items: center;
 } 
 
 
@@ -688,16 +711,19 @@ height: 500px;
 /* dropdown 3*/    
 
 #dropdowns3 label  {
-   background-color: #db2626;
-   width: 400px !important;
-   height: 800px; 
-   
+   background-color: #9a2018;
+   width: 380px;
+   height: 50px; 
    margin-top: 15px;
    cursor: pointer;
    transition: all .5s ease;
    margin-bottom: 20px; 
    border: 4px transparent #c23b3b ;
-   border-radius: 10%;
+   border-radius: 5px;
+   display: inline-block;
+   text-align: center;
+   display: flex;
+   align-items: center;
 } 
 
 
@@ -718,16 +744,19 @@ height: 500px;
 /* dropdown 4*/    
 
 #dropdowns4 label  {
-   background-color: #db2626;
-   width: 400px !important;
-   height: 800px; 
-   
+   background-color: #9a2018;
+   width: 380px;
+   height: 50px; 
    margin-top: 15px;
    cursor: pointer;
    transition: all .5s ease;
    margin-bottom: 20px; 
    border: 4px transparent #c23b3b ;
-   border-radius: 10%;
+   border-radius: 5px;
+   display: inline-block;
+   text-align: center;
+   display: flex;
+   align-items: center;
 } 
 
 
@@ -749,17 +778,33 @@ height: 500px;
 /* dropdown 5*/    
 
 #dropdowns5 label  {
-   background-color: #db2626;
-   width: 400px !important;
-   height: 800px; 
-   
+   background-color: #9a2018;
+   width: 380px;
+   height: 50px; 
    margin-top: 15px;
    cursor: pointer;
    transition: all .5s ease;
    margin-bottom: 20px; 
    border: 4px transparent #c23b3b ;
-   border-radius: 10%;
+   border-radius: 5px;
+   display: inline-block;
+   text-align: center;
+   display: flex;
+   align-items: center;
+   
 } 
+
+.entrees, .breakfast , .dinner , .drinks , .starters , .lunch {
+   /* background-color: #4CAF50; */
+   margin-left: 10px;
+   color: white;
+   
+}
+
+#imgd5, #imgd1, #imgd2, #imgd3, #imgd4 {
+   margin-left: 10px;
+}
+
 
 
 #dropdowns5 input, #drinks-content {
@@ -888,49 +933,6 @@ height: 500px;
 
 /* popup- popup- popup- popup- popup- popup- popup- popup- popup- popup- popup- popup- popup- popup- popup- popup-*/
 
-#contact-hero-form form #submit::after{
-   display: block;
-}
-
-
-.popup-container:target {
-   display: block;
-}
-
-.popup-container {
-   display: none;
-   position: fixed;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%, -50%);
-   background-color: #ffffff;
-   border: 1px solid #ccc;
-   padding: 20px;
-   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-   z-index: 999;
-}
-
-.popup-thumbs-up {
-   font-size: 40px;
-   color: #4CAF50;
-   margin-bottom: 10px;
-}
-
-.popup-message {
-   font-size: 18px;
-}
-
-.close-popup {
-   display: block;
-   background-color: #4CAF50;
-   color: #ffffff;
-   border: none;
-   padding: 10px 20px;
-   cursor: pointer;
-   text-align: center;
-   text-decoration: none;
-   margin-top: 10px;
-}
 
 
 /* dropdown- dropdown-dropdown-dropdown-dropdown-dropdown-dropdown-dropdown--dropdown-dropdown-dropdown-dropdown--dropdown-dropdown-dropdown-dropdown-*/
