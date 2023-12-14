@@ -280,7 +280,31 @@ input, textarea {
    /* box-shadow: 0 0 2px #333 ; */
 }
 
-#hero-summary p {
+#hero-summary1 p {
+   font-size: 14px;
+   line-height: 22px;
+   margin-bottom: 20px;
+}
+
+#hero-summary2 p {
+   font-size: 14px;
+   line-height: 22px;
+   margin-bottom: 20px;
+}
+
+#hero-summary3 p {
+   font-size: 14px;
+   line-height: 22px;
+   margin-bottom: 20px;
+}
+
+#hero-summary4 p {
+   font-size: 14px;
+   line-height: 22px;
+   margin-bottom: 20px;
+}
+
+#hero-summary5 p {
    font-size: 14px;
    line-height: 22px;
    margin-bottom: 20px;
